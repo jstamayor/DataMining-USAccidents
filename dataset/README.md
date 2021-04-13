@@ -4,7 +4,7 @@ El conjunto de datos final cuenta con 26 variables y 2 059 852 registros. Se hac
 
 Variable | Descripción
 ------------ | -------------
-Start_Time | Muestra la hora de inicio del accidente
+Start_Time | Muestra el timestamp de inicio del accidente
 Accident_Duration(h) | La duración del accidente en horas
 Severity | La severidad del accidente; un número entre 1 y 4 (incluyendo los límites), donde 1 indica un impacto leve en el tráfico y 4 indica un impacto significativo en el tráfico
 Start_Lat | Latitud en coordenadas GPS del punto inicial del accidente
