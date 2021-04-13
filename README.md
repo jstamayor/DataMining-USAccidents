@@ -1,3 +1,4 @@
-# DataMining-USAccidents
+# Minería de Datos
+## US Accidents Data Mining Project
 
-Repositorio con el análisis del conjunto de datos US-Accidents.
+Repositorio con todo el contenido que permite hacer el análisis del conjunto de datos US-Accidents.
