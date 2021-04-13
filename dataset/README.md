@@ -30,3 +30,7 @@ Hour | Hora en la que ocurrió el accidente
 Interest_Points | Conteo de los sitios de interéscercanos al evento ocurrido
 Road_Features | Conteo de características presentes en la vía durante el accidente
 Traffic_Signals | Conteo de señales de tránsito presentes en ellugar del accidente
+
+**Nota**: Como el conjunto de datos final tiene un tamaño de 409 MB, y GitHub no permite cargar archivos con un tamaño superior a 25 MB, entonces optamos por adjuntar el enlace al dataset en Drive.
+
+https://drive.google.com/file/d/1UYuE3zXgaetEoJH5AdoSXabOBRBTMfOH/view?usp=sharing
